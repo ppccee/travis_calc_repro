@@ -2,11 +2,8 @@
 public class test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//±âº» Ãâ·Â¹® println()        
-        //sysout + ÀÚµ¿¿Ï¼º(ctrl + space)
-        
-        System.out.println("Hello, World."); //¹®ÀÚ¿­ Ãâ·Â
+		System.out.println("Hello, World.");
+		System.out.println("Hello, ê¹€í˜•ë¯¼");
 	}
 
 }
