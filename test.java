@@ -3,10 +3,10 @@ public class test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//±âº» Ãâ·Â¹® println()        
-        //sysout + ÀÚµ¿¿Ï¼º(ctrl + space)
+		//ê¸°ë³¸ ì¶œë ¥ë¬¸ println()        
+        //sysout + ìë™ì™„ì„±(ctrl + space)
         
-        System.out.println("Hello, World."); //¹®ÀÚ¿­ Ãâ·Â
+        System.out.println("Hello"); //ë¬¸ìì—´ ì¶œë ¥
 	}
 
 }
